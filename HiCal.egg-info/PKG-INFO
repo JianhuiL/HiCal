@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: HiCal
+Version: 0.0.1
+Summary: HiC heatmap analysis tools
+Home-page: https://github.com/JianhuiL/
+Author: Jianhui Li
+Author-email: jianhui.li@columbia.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: 
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
